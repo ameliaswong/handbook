@@ -163,7 +163,8 @@ Guild meeting times can also be found on the
         </td>
         <td>
 	Allison Press - 18F <br />
-          Michelle Rago - 18F
+          Amelia Wong - 18F < br />
+		Laura Herring – OROS < br />
         </td>
       </tr>
       <tr>
